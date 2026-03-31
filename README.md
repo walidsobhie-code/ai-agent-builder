@@ -156,3 +156,24 @@ Star the repo if you find it useful!
 ## 🖥️ Demo Screenshot
 
 ![Agent Builder Demo](ai-agent-builder_test.png)
+
+## 🗺️ Roadmap
+
+- [ ] [Planned] Web version / hosted demo
+- [ ] [Planned] API endpoint for production use
+- [ ] [Planned] Support for more languages
+- [ ] [In Progress] Performance optimizations
+- [ ] [Done] Gradio web interface
+- [ ] [Done] Docker deployment
+
+## 🏢 Used By
+
+> Have a project using this? Send a PR to add your company!
+
+- *(coming soon — be the first to list your project!)*
+
+## 🤝 Contributors
+
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+[![GitHub Contributors](https://contrib.rocks/image?repo=my-ai-stack/ai-agent-builder)](https://github.com/my-ai-stack/ai-agent-builder/graphs/contributors)
