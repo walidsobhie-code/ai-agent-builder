@@ -3,7 +3,7 @@
 > **Build AI agents with drag-and-drop** — No coding required. Create autonomous agents with tools, memory, and LLM integration in minutes.
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
-[![Try on HF](https://img.shields.io/huggingface/spaces/walidsobhie/ai-agent-builder?color=blue&label=Try+Live+Demo)](https://huggingface.co/spaces/walidsobhie/ai-agent-builder)
+[![Try on HF](https://img.shields.io/huggingface/spaces/my-ai-stack/ai-agent-builder?color=blue&label=Try+Live+Demo)](https://huggingface.co/spaces/my-ai-stack/ai-agent-builder)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/walidsobhie-code/ai-agent-builder)](https://github.com/walidsobhie-code/ai-agent-builder/stargazers)
 
